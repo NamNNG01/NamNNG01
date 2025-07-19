@@ -6,7 +6,8 @@ My name is Viet Nguyen. I am a Senior AI engineer at Sporttotal. I am interested
 
 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NamNNG01&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamNNG01&theme=gruvbox&hide=contribs,prs,issues)
 
 <a href="https://github.com/vietnh1009/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
