@@ -16,6 +16,6 @@ My name is Nam
 
 <a href="https://github.com/NamNNG01/ObjectDetection-Bi-n-s-xe">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNNG01&repo=ObjectDetection-Bi-n-s-xe&theme=radical" />
 </a>    
 
