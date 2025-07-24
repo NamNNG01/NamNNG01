@@ -1,5 +1,10 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Nam
+My name is Nam. I am an Information Technology student with a foundation in AI,
+ including machine learning, deep learning, computer vision, and
+ data analysis. I’ve worked with Python and core tools like
+ TensorFlow, PyTorch, and Pandas. 
+ My goal is to become an AI Engineer focused on building
+ practical, intelligent systems that solve real-world problems
 
 
 
