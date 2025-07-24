@@ -14,8 +14,10 @@ My name is Nam
 
 ![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamNNG01&theme=gruvbox&hide=contribs,prs,issues)
 
+## 🚗 License Plate Detection Demo  
+Detects license plates from uploaded vehicle images using deep learning (YOLOv8).
+
 <a href="https://github.com/NamNNG01/ObjectDetection-Bi-n-s-xe">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NamNNG01&repo=ObjectDetection-Bi-n-s-xe&theme=radical" />
-</a>    
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NamNNG01&repo=License-Plate-Detection&theme=radical" />
+</a>
 
