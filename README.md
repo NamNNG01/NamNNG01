@@ -15,6 +15,7 @@ My name is Nam
 ![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamNNG01&theme=gruvbox&hide=contribs,prs,issues)
 
 <a href="https://github.com/NamNNG01/License-Plate-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NamNNG01&repo=License-Plate-Detection&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NamNNG01&repo=License-Plate-Detection&theme=radical&cache_seconds=30" />
+
 </a>
 
