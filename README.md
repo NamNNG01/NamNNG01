@@ -21,11 +21,11 @@ My name is Nam. I am an Information Technology student with a foundation in AI,
 
 
 
-<a href="https://github.com/NamNNG01/License-Plate-Detection](https://github.com/NamNNG01/eCommerce-Website-Spring-Boot">
+<a href="https://github.com/NamNNG01/eCommerce-Website-Spring-Boot">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NamNNG01&repo=eCommerce-Website-Spring-Boot&theme=radical&cache_seconds=30" />
 </a>
 
-<a href="https://github.com/NamNNG01/License-Plate-Detection](https://github.com/NamNNG01/eCommerce-Website-Spring-Boot](https://github.com/NamNNG01/Pet-Shop-Website">
+<a href="https://github.com/NamNNG01/Pet-Shop-Website">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NamNNG01&repo=Pet-Shop-Website&theme=gruvbox&cache_seconds=30" />
 </a>
 
