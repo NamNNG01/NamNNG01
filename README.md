@@ -26,7 +26,7 @@ My name is Nam. I am an Information Technology student with a foundation in AI,
 </a>
 
 <a href="https://github.com/NamNNG01/Pet-Shop-Website">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NamNNG01&repo=Pet-Shop-Website&theme=gruvbox&cache_seconds=30" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NamNNG01&repo=Pet-Shop-Website&theme=gruvbox&cache_seconds=15" />
 </a>
 
 
